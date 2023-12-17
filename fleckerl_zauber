@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>Title – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+<h1>Fleckerl-Zauber</h1>
+
+<div style="float:left"><img src="/static/img/fleckerl_zauber/fleckerl_zauber.jpg" alt="Fleckerl zauber" /></div>
+
+<div>
+  <h2>Schönheit mit Zeit und Akribie:</h2>
+
+  <p>
+    Lieber zehn Tage für ein Stück als zehn Stücke an einem Tag<br>
+    „Kein Quilt darf perfekt sein, denn nur Gott sei perfekt“, befanden die ersten europäischen Siedler in Nordamerika, die Patchwork und Quilten vor allem aus England mitgebracht hatten. Mit dem Einzug der industriellen Fertigung von Stoffen und Decken verlor die Quiltkultur an Bedeutung. Dass sie heute wieder gedeiht, verdankt sie wohl nicht zuletzt Menschen, die Freude am Sammeln alter Stoffe haben, in jedem Stück regionale Geschichte und Kultur sehen und sie in neuem Glanz erstrahlen lassen.<br>
+    Es geht um die Herausforderung, nach gemeinsamen Vorgaben die Freiheit des Gestaltens zu genießen. An Tostmann-Stoffen, oder eher Tostmann-Restln, zeigt die <strong>Patchworkgruppe Wien</strong>, dass es für beinah alles noch eine Verwendung gibt – sei es als Bettdecke, Jacke, Polster oder dekorativer Wandbehang. <br>
+    <strong>Aus den kleinsten Stoffresten entstehen wunderbare Kunstwerke:</strong> Dirndln, eine niederösterreichische Landschaft, sogar ein ganzes Dorf auf einer Decke und vieles mehr. Eine Fundgrube für alle am textilen Gestalten Interessierten mit Anweisungen zum Selbermachen.
+  </p>
+
+  <h2>Die Autorinnen</h2>
+
+  <p><strong>Gexi Tostmann</strong>, Dr., geboren 1942 in Vöcklabruck, studierte Volkskunde an der Universität Wien. Sie ist Eigentümerin und Geschäftsführerin einer alteingeführten Trachtenfirma in Seewalchen am Attersee (Salzkammergut) und in der Wiener Innenstadt. <br>
+    Zahlreiche Publikationen zum Thema Tracht und Trachtenmode, darunter Tracht in Österreich (1984) und Das Dirndl (1998) im Verlag Christian Brandstätter. <br>
+    Lebt in Wien und Seewalchen.</p>
+
+  <p><strong>Lilo Wesely</strong>, geboren 1943 in Wien, kaufmännische Ausbildung und zwölf Jahre Tätigkeit in der Privatwirtschaft. Danach Studium am Konservatorium der Stadt Wien und seit 25 Jahren hauptberuflich Musiklehrerin. <br>
+    Patchwork und Quilten seit 1978, Kursleiterin ab 1988. Initiatorin und Gründungsmitglied der <strong>Patchworkgruppe Wien</strong>, Arbeit im Vorstand der Patchwork-Gilde Austria. Organisation von Ausstellungen im Inland sowie zahlreiche Beteiligungen an Ausstellungen im In- und Ausland. <br>
+    Preise bei Ausstellungen in den USA und Großbritannien. Patchwork und Quilts in traditionellen und zeitgenössischen Techniken.</p>
+
+  <h2>Spezifikationen</h2>
+
+  <p>Gexi Tostmann, Lilo Wesely <br>
+    Fleckerlzauber Patchwork-Quilts aus Trachtenstoffen <br>
+    112 Seiten mit 88 Farb- Abbildungen und zahlreichen Schnittplänen, in 4-Farb-Offset auf 170 g schwerem, halbmattem Kunstdruckpapier gedruckt. Format 16,5 x 23 cm. Fadenheftung. Leinen, einfarbig geprägt, mit 4farbig bedrucktem Schutzumschlag <br>
+    ISBN 3-85498-313-1 <br>
+    EUR 29,–, sfr 51,40 <br>
+    Erscheinen: Verlag Brandstätter, Wien im Januar 2004
+  </p>
+
+  <p>Erhältlich im Buchhandel oder mit Click direkt bei: <a href="mailto:patchfan@aon.at?body=Bitte%20um%20genaue%20Anschrift&amp;subject=Bestellung%20f%C3%BCr%20das%20Buch%20Fleckerl-Zauber">Lilo Wesely</a>
+  </p>
+  </div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>

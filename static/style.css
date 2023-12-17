@@ -1,0 +1,42 @@
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+#navi {
+    background: lightblue;
+    padding: 0.5em;
+}
+
+p {
+    font-size: 100%;
+}
+div {
+    font-size: 100%;
+}
+#parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#content {
+    max-width: 1024px;
+    background-color: lightyellow;
+    padding: 0.5em;
+    border: 1px solid black;
+}
+
+#footer {
+    background-color: lightcoral;
+    padding: 0.5em;
+}
+
+
+
+.thumbnail{
+  float: left;
+  margin: 0.25em;
+  height: 102px;
+}
