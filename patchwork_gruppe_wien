@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>Patchwork-Gruppe Wien – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+<h1>Patchwork-Gruppe Wien</h1>
+
+<p>Siehe: <a target="_blank" href="https://www.patchworkgruppewien.at">www.patchworkgruppewien.at</a></p>
+<div style="overflow: auto">
+  <p style="float:left; margin: 0.5em"><img src="/static/img/patchwork_gruppe_wien/PWGW_Logo_klein.jpg" alt="Pwgw logo klein" /></p>
+
+  <p>Die Patchwork-Gruppe Wien wurde im Anschluss an die in Salzburg abgehaltene erste Quilt-Expo Europa im Juni 1988 gegründet. Seit September 1990 ist sie ein eingetragener gemeinnütziger Verein. Der Vereinszweck ist die Förderung der Textilkunst <strong>„Patchwork und Quilten“</strong> in Österreich.</p>
+</div>
+
+<p>Zur Erreichung dieses <strong>Zieles</strong> setzen wir folgende Aktivitäten:
+<ul>
+  <li>Eigene Austellungen</li>
+  <li>Abhalten von Workshops</li>
+  <li>Blockverlosungen</li>
+  <li>Jährlicher Challenge</li>
+  <li>Exkursionen</li>
+  <li>Präsentation unserer Gemeinschaftsquilts in anderen Ausstellungen</li>
+</ul>
+</p>
+
+<p><strong>Wir treffen uns jeweils am 3. Mittwoch im Monat.</strong></p>
+
+<p>Für weitere Informationen wenden Sie sich bitte an die Obfrau:</p>
+
+<p>Lilo Wesely <br>
+  Vorgartenstraße 132/106 <br>
+  A-1020 Wien
+</p>
+
+<p><strong>Für Ihre Anfrage oder Nachricht bitte an:</strong> <a href="mailto:patchfan@aon.at">patchfan@aon.at</a></p>
+
+<hr style="width: 80%" />
+
+<div style="border: white solid 1px">
+  <p style="float:left; margin: 0.5em"><img src="/static/img/patchwork_gruppe_wien/tostlogt_klein.gif" alt="Tostlogt klein" /></p>
+  <p>
+    Die Patchwork-Gruppe Wien wird seit vielen Jahren von <strong>Frau Dr. Gexi Tostmann</strong>, der Inhaberin des bekannten Trachtenmoden- und Stoffgeschäftes <a target="_blank" href="http://www.tostmann.at/">Trachten Tostmann</a> in der Schottengasse im 1. Wiener Gemeindebezirk, durch die Bereitstellung eines Raumes für unsere Treffen sowie Stoffspenden etc. unterstützt. Dafür sei ihr auch an dieser Stelle herzlich gedankt.
+  </p>
+</div>
+</div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>

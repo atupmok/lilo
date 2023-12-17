@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>25 Jahre Fleckerl-Zauber – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+<table width="90%">
+    <tr>
+        <td>
+            <h1>25 Jahre Fleckerl-Zauber<br>
+                Jubiläumsausstellung der Patchwork-Gruppe Wien</h1>
+
+            <iframe width="600" height="635" src="http://www.youtube.com/embed/qU_azoXnH8w" frameborder="0" allowfullscreen></iframe>
+            <div class="normal">
+                <img src="/static/img/25_jahre_fleckerl_zauber/25-jahre-fleckerlzauber.jpg" alt="25 Jahre Fleckerlzauber"><br>
+                <a href="/static/files/fleckerlzauber-plakat-V2.pdf">Pdf-Version</a>
+            </div>
+        </td>
+    </tr>
+</table>
+</div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>

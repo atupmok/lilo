@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <meta charset="UTF-8">
+    <head>
+        <title>Lilo Wesely´s Patchwork- und Quilt-Seiten</title>
+            <link rel="stylesheet" type="text/css" href="css/mystyle.css">
+            <script src="js/w3.js"></script>
+            <script src="js/diverses.js"></script>
+    </head>
+    <body>
+        <div id="parent">
+            <div  w3-include-html="navbar.html" id="narrow"></div>
+            <script>
+                w3.includeHTML();
+            </script>
+
+            <div id="wide">
+                <h1>Termine – Patchwork und Quilten in Österreich</h1>
+
+<p>Siehe: <a target = "_blank" href="https://www.patchworkgilde.at/">Patchwork Gilde Austria</a></p>
+
+</div>
+            </div>
+        </div>
+    </body>
+</html>

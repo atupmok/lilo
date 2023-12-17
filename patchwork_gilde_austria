@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>Patchwork-Gilde Austria – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+<h1>Patchwork-Gilde Austria</h1>
+
+<div style="overflow:auto">
+  <p style="float:left; margin: 0.5em"><img src="/static/img/patchwork_gilde_austria/gilde.jpg" alt="Gilde" /></p>
+  <p>Die Patchwork-Gilde Austria wurde im Jänner 1996 als eingetragener gemeinnütziger Verein gegründet. Der Vereinszweck ist es, die Textilkunst „PATCHWORK UND QUILTING“ in Österreich zu fördern und zu verbreiten.</p>
+  <p><strong>Homepage:</strong> <a target="_blank" href="http://www.patchworkgilde.at">www.patchworkgilde.at</a></p>
+</div>
+
+<p>Zur Erreichung dieses Zieles setzen wir folgende Aktivitäten:
+<ul>
+  <li>Herausgabe der Gildezeitschrift „Pinwand“ (vierteljährlich)</li>
+  <li>Ausstellungen</li>
+  <li>Abhalten von Seminaren und Workshops</li>
+  <li>jährliche Mitgliederversammlung</li>
+</ul>
+</p>
+
+<p>Die Mitgliedschaft steht allen Interessenten (auch aus dem Ausland) offen.<br>Besuchen Sie unsere Homepage <a target="_blank" href="http://www.patchworkgilde.at">www.patchworkgilde.at</a> für ausführliche Informationen und aktuelle Aktivitäten.</p>
+</div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>

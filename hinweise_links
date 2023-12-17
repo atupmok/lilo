@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>Title – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+
+<h1>Links (additional links)</h1>
+<table style="border-spacing: 0.25em">
+  <colgroup>
+    <col>
+    <col>
+  </colgroup>
+  <tbody>
+    <tr>
+      <th colspan="2" style="text-align: left">European Guilds:</th>
+    </tr>
+    <tr>
+      <td>AT</td>
+      <td><a target="_blank" href="http://www.patchworkgilde.at">Patchwork-Gilde Austria</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>CH</td>
+      <td><a target="_blank" href="http://www.e-q-a.eu">European Quilt Association</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.patchworkgilde.de/">Patchwork-Gilde Deutschland e.V.</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>CH</td>
+      <td><a target="_blank" href="http://www.patchquilt.ch/">Vereinigung Schweizer Quilter</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>UK</td>
+      <td><a target="_blank" href="http://www.quiltersguild.org.uk/contents/home.html">Quilters&#39; Guild of the British Isles</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>IT</td>
+      <td><a target="_blank" href="http://www.quiltitalia.it/">Associazione Italinana di Patchwork e Quilting</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>FR</td>
+      <td><a target="_blank" href="http://francepatchwork.com/">Association Française du Patchwork</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>NL</td>
+      <td><a target="_blank" href="http://www.quiltersgilde.nl/">Quiltersgilde</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>BE</td>
+      <td><a target="_blank" href="http://www.belgiumquilt.be/">ASSOCIATION BELGE DU PATCHWORK</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DK</td>
+      <td><a target="_blank" href="http://www.patchwork.dk/">The Danish Patchwork Guild </a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>NO</td>
+      <td><a target="_blank" href="http://www.nqf.no/">Norwegian Quilters Association</a>
+        </a></td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: left"><br>Further Guilds and Groups:</th>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.queenbee-quilters.de.vu/">Queenbee Quilters</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.northwestquilters.org/">Northwest Quilters, Inc. </a>
+        </a></td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: left"><br>Private Homepages:</th>
+    </tr>
+    <tr>
+      <td>AT</td>
+      <td><a target="_blank" href="http://www.quilt-wien.com/">Kunsthandwerk von Sigrid Pöschl</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.quiltgalerie.de/">Quiltgalerie.de (Karola Ludwig)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://nightstitcher.com">Lois Frankel&#39;s Homepage</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>NL</td>
+      <td><a target="_blank" href="http://annelies.itgo.com/">Annelies Elburg Patchwork &amp; Quilts</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.geocities.com/Heartland/Ranch/1180/">Kitty&#39;s Home Page</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>NL</td>
+      <td><a target="_blank" href="http://home19.inet.tele.dk/bgweb/">Bodil&#39;s Patchwork</a>
+        </a></td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: left"><br>Further Patchwork Links:</th>
+    </tr>
+    <tr>
+      <td>AT</td>
+      <td><a target="_blank" href="http://www.quiltjournal.com/">Patchwork- und Quiltverlag</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.freequiltpatterns.info/">Free Quilt Patterns</a>
+        </a> (Meine Lieblingsseite)</td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.quiltstudy.org/">The International Quilt Study Center (Nebraska)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.lostquilt.com/">Lost Quilt Come Home Page</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.quilts.de/">Claudia Eichert-Schäfer (Die Quilt Seite)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.quiltart.com/">Quiltart (mailing list for contemporary art quilters)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>DE</td>
+      <td><a target="_blank" href="http://www.etn-net.org/">European Textile Network (Germany)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.missingfabrics.com/">Missing Fabrics!</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.thequiltermag.com/">The Quilter Magazine Online</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://planetpatchwork.com/">Planet Patchwork Homepage</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://quilting.miningco.com/">Quilting - The Mining Company</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.kayewood.com/">Kaye Wood&#39;s Website</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.bryerpatch.com/">Caryl Bryer Fallert&#39;s Website</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.paducahquilts.com/">Sara Newberg King&#39;s Quilting Studio</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.jinnybeyer.com/home.cfm">Jinny Beyer&#39;s Quilt Studio</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://users.erols.com/cozy/">Cozy Bendesky&#39;s Website</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.marbledfabrics.com/">Marbled Fabrics Website</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>CH</td>
+      <td><a target="_blank" href="http://www.infoform.ch/ArtsTextiles/">Arts Textiles Home Page</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>UK</td>
+      <td><a target="_blank" href="http://www.riodesigns.co.uk/">RioDesigns - Software for Quilters</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>JP</td>
+      <td><a target="_blank" href="http://www.viq.com/">Patchwork Tsushin</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.fabricstodyefor.com/">Fabrics To Dye For</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>UK</td>
+      <td><a target="_blank" href="http://www.houseofpatchwork.co.uk/">House of Patchwork </a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.stoneginger.com/">Stone Ginger Press (Notecards)</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.quiltshops.com/">Quiltshops.com</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>SW</td>
+      <td><a target="_blank" href="http://www.lapp-elisa.com/">Lapp-Elisa Quilts HB</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://www.quiltcreations.com/">Quilt Creations</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>JP</td>
+      <td><a target="_blank" href="http://www.fabrictales.com/">Quality Fabrics from Japan</a>
+        </a></td>
+    </tr>
+    <tr>
+      <td>USA</td>
+      <td><a target="_blank" href="http://quilt.com/Quilt.html">World Wide Quilting Page</a>
+        </a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>

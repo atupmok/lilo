@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    
+    <link rel="stylesheet" href="/static/style.css" />
+    <script src="/static/js/w3.js"></script>
+    <script src="/static/js/diverses.js"></script>
+    <title>Über mich – Lilo Weselys Patchwork- und Quilt-Seiten</title>
+    
+</head>
+
+<body>
+    <div id="parent">
+        <div id="navi">
+            
+            <a href="/home">Home</a> |
+            <a href="/ueber_mich">Über mich</a> |
+            <a href="/fleckerl_zauber">Fleckerl-Zauber</a> |
+            <a href="/meine_galerie">Meine Galerie (Auszug)</a> |
+            <a href="/patchwork_gruppe_wien">Patchwork-Gruppe Wien</a> |
+            <a href="/patchwork_gilde_austria">Patchwork-Gilde Austria</a> |
+            <a href="/stoffgeschaefte">Stoffgeschäfte</a> |
+            <a href="/hinweise_links">Links (additional links)</a> |
+            <a href="/fuenfundzwanwig_jahre_fleckerl_zauber">25 Jahre Fleckerl-Zauber Jubiläumsausstellung der Patchwork-Gruppe Wien</a> |
+        </div>
+        <div id="content">
+<h1>Lilo Wesely</h1>
+
+<div>
+    <p>Ich liebe Patchwork seit 1978. Besonders faszinieren mich derzeit die neuen und vielen Möglichkeiten des Blockhauses mit dem „Dreh“, die <strong>Blockhaus-Spiralen</strong>. Mit diesem Muster habe ich schon einige größere und kleinere Quilts genäht und bei Ausstellungen Preise dafür erhalten.</p>
+    <p>Auch im Workshop „Spiralen - gedrehtes Blockhaus und darüber hinaus“, den ich bei der Quilt Expo VI im Mai 1998 in Innsbruck gehalten habe, habe ich dieses Muster und die zugehörigen Techniken behandelt.</p>
+    <p>Ich bin Mitbegründerin der ersten aktiven Patchwork-Gruppe in Österreich, der <strong>Patchwork-Gruppe Wien</strong>. Seit der Gründung der Patchwork-Gilde Austria im Jänner 1996 arbeite ich auch in deren Vorstand mit.</p>
+    <p>Hauptberuflich unterrichte ich Blockflöte an einer Musikschule der Stadt Wien, einer Zweigstelle des Konservatoriums.</p>
+    <p>Von Februar 1997 bis Februar 1998 nahm ich an einem <strong>internationalen Round Robin</strong> teil, bei dem sich die Teilnehmerinnen aus Alaska, Australien, den Bahamas, Deutschland, Kanada und Österreich (meine Wenigkeit) über das Internet gefunden haben. Das fertige Quilt-Top ist ca. 150 x 150 cm groß.</p>
+    <p>Von Jänner bis Dezember 1999 war ich Teilnehmerin eines weiteren <strong>Round Robins</strong> mit 10 Beteiligten aus 9 verschiedenen Ländern, der über die Mailing-Liste „Quilt-Pro“ im Internet zustande kam.</p>
+    <p>Mein persönliches Zeichen ist der Kreis mit einem eingeschriebenen fünfzackigen Stern. Dies habe ich auch in meinem Quilt verarbeitet (siehe oben).</p>
+    <p>Mit Gexi Tostmann haben wir gemeinsam im Jänner 2004 das Buch <a href="/fleckerl_zauber">„Fleckerl-Zauber“</a> herausgegeben.</p>
+</div>
+</div>
+        <hr style="width: 80%" />
+        <div id="footer">
+            <strong>Lilo Wesely, MA</strong>
+            Vorgartenstraße 132/106<br>
+            A-1020 Wien<br>
+            mailto: <A href="mailto:patchfan@aon.at">patchfan@aon.at</a>
+        </div>
+    </div>
+</body>
+
+</html>
