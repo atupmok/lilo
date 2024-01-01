@@ -1,19 +1,35 @@
  body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
+    font-size: 16px;
+    
+}
+
+/* Custom, iPhone Retina */ 
+@media (min-width : 320px) {
+    #navi, #content, #footer{
+        max-width: 300px;
+    }                
+}
+
+/* Extra Small Devices, Phones */ 
+@media (min-width : 480px) {
+    #navi, #content, #footer{
+        max-width: 460px;
+    }        
+}
+
+/* Small Devices, Tablets */
+@media (min-width : 768px) {
+    #navi, #content, #footer{
+        max-width: 748px;
+    }        
 }
 
 #navi {
     background: lightblue;
-    padding: 0.5em;
+    padding: 5px;
 }
 
-p {
-    font-size: 100%;
-}
-div {
-    font-size: 100%;
-}
 #parent {
     display: flex;
     flex-direction: column;
@@ -22,18 +38,14 @@ div {
 }
 
 #content {
-    max-width: 1024px;
     background-color: lightyellow;
-    padding: 0.5em;
-    border: 1px solid black;
+    padding: 5px;
 }
 
 #footer {
     background-color: lightcoral;
-    padding: 0.5em;
+    padding: 5px;
 }
-
-
 
 .thumbnail{
   float: left;
